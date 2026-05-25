@@ -14,13 +14,13 @@ Passionate about applying machine learning to solve real-world problems in healt
 - Developed an **NLP Text Summarization** tool using NLTK and spaCy
 - Currently exploring **Bioinformatics and Computational Biology** with ML approaches
 - Certified in **AI/ML**, **Deep Learning**, **NVIDIA CUDA Python**, and **IBM Data Analytics**
-- Based in **India** - open to remote and on-site opportunities worldwide
+- Based in **United States** - open to remote, hybrid and on-site opportunities.
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, R
+**Languages:** Python, R, C++, SQL
 
 **ML and DL Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras
 
