@@ -2,7 +2,7 @@
 
 **AI/ML Engineer | Biomedical AI · NLP · Deep Learning | Open to Opportunities**
 
-Passionate about applying machine learning to solve real-world problems in healthcare, language, and computer vision. Based in India.
+Passionate about applying machine learning to solve real-world problems in healthcare, language, and computer vision. From India, currently in United States.
 
 ---
 
