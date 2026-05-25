@@ -7,31 +7,32 @@ Passionate about applying machine learning to solve real-world problems in healt
 ---
 
 ## About Me
-
 - Focused on **AI/ML** with specializations in **Biomedical AI**, **NLP**, and **Deep Learning**
 - Interned at **IIT Madras (IITM)** - researched ML models for predicting crack paths in materials under stress
 - Built a **Handwritten Digit Recognition** system using CNNs trained on the MNIST dataset
 - Developed an **NLP Text Summarization** tool using NLTK and spaCy
 - Currently exploring **Bioinformatics and Computational Biology** with ML approaches
 - Certified in **AI/ML**, **Deep Learning**, **NVIDIA CUDA Python**, and **IBM Data Analytics**
-- Based in **United States** - open to remote, hybrid and on-site opportunities.
+- Based in **India** - open to remote and on-site opportunities worldwide
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, R, C++, SQL
-
-**ML and DL Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras
-
-**NLP and Data:** NLTK, spaCy, Pandas, NumPy, Matplotlib
-
-**Tools and Platforms:** Jupyter Notebook, CUDA, Git, GitHub, VS Code
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3C3C3C?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## Featured Projects
-
 | Project | Description | Tech |
 |---------|-------------|------|
 | [Handwritten Digit Recognition](https://github.com/Vedasravas/CapstoneProject_HandWrittenDigitRecognision) | CNN system for real-time MNIST digit recognition with GUI | Python, TensorFlow |
@@ -42,7 +43,6 @@ Passionate about applying machine learning to solve real-world problems in healt
 ---
 
 ## Certifications
-
 - **AI/ML Specialization** - [AI-ML-Certificates](https://github.com/Vedasravas/AI-ML-Certificates)
 - **Deep Learning** - [Deep-learning-Certificates](https://github.com/Vedasravas/Deep-learning-Certificates)
 - **NVIDIA CUDA Python** - [NVIDIA_CUDA_Python_Certificate](https://github.com/Vedasravas/NVIDIA_CUDA_Python_Certificate)
@@ -50,16 +50,13 @@ Passionate about applying machine learning to solve real-world problems in healt
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vedasravas&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedasravas&layout=compact&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vedasravas&theme=dark&hide_border=true)
 
 ---
 
 ## Let's Connect
-
 I'm actively looking for **AI/ML Engineer**, **Data Scientist**, or **Research** roles. Feel free to reach out!
 
 *"The goal of AI is not to replace human intelligence but to complement and enhance it."*
