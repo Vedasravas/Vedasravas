@@ -7,13 +7,14 @@ Passionate about applying machine learning to solve real-world problems in healt
 ---
 
 ## About Me
+- Graduated from University of Cincinnati, MEng Computer Science.
 - Focused on **AI/ML** with specializations in **Biomedical AI**, **NLP**, and **Deep Learning**
 - Interned at **IIT Madras (IITM)** - researched ML models for predicting crack paths in materials under stress
 - Built a **Handwritten Digit Recognition** system using CNNs trained on the MNIST dataset
 - Developed an **NLP Text Summarization** tool using NLTK and spaCy
 - Currently exploring **Bioinformatics and Computational Biology** with ML approaches
 - Certified in **AI/ML**, **Deep Learning**, **NVIDIA CUDA Python**, and **IBM Data Analytics**
-- Based in **India** - open to remote and on-site opportunities worldwide
+- Based in **Cincinnati, Ohio, USA.** - open to  hybrid, remote and on-site opportunities in and around US.
 
 ---
 
