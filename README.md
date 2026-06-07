@@ -48,6 +48,7 @@ Passionate about applying machine learning to solve real-world problems in healt
 - **Deep Learning** - [Deep-learning-Certificates](https://github.com/Vedasravas/Deep-learning-Certificates)
 - **NVIDIA CUDA Python** - [NVIDIA_CUDA_Python_Certificate](https://github.com/Vedasravas/NVIDIA_CUDA_Python_Certificate)
 - **IBM Data Analyst** - [IBM-Data_Analyst_Certificates](https://github.com/Vedasravas/IBM-Data_Analyst_Certificates)
+- **Natural Language Processing** - [NLP_Certificates](https://github.com/Vedasravas/NLP_Certificates)
 
 ---
 
